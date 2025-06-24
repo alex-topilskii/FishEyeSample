@@ -58,7 +58,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.ato.liquidglasseffect.ui.theme.LiquidGlassEffectTheme
+import com.ato.fisheyesample.ui.theme.FishEyeSampleTheme
 
 @RequiresApi(Build.VERSION_CODES.TIRAMISU)
 class MainActivity : ComponentActivity() {
@@ -287,7 +287,7 @@ fun ComplexScreen(modifier: Modifier = Modifier) {
 @Preview(showBackground = true)
 @Composable
 fun ComplexScreenPreview() {
-    LiquidGlassEffectTheme {
+    FishEyeSampleTheme {
         ComplexScreen()
     }
 }
