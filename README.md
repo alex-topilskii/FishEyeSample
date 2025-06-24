@@ -40,9 +40,9 @@ This project demonstrates the use of a custom AGSL (Android Graphics Shading Lan
 
 ## Screenshots
 
-| IOS 26                       | Compose                  |
-|------------------------------|--------------------------|
-| ![ios 26 photo](./ios26.png) | ![compose](./demo_1.png) |
+| IOS 26                       | Compose                  | Demo                 |
+|------------------------------|--------------------------|----------------------|
+| ![ios 26 photo](./ios26.png) | ![compose](./demo_1.png) | ![video](./demo.gif) |
 
 ---
 
