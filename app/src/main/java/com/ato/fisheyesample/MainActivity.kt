@@ -101,7 +101,7 @@ fun FishEyeLayer(
             half4 main(float2 fragCoord) {
                 float zoom = 1.7;
                 float distortion = 0.8;
-                float powVal = 20.0;
+                float powVal = 40.0;
 
                 float2 toCenter = fragCoord - $circleCenterKey;
                 float dist = length(toCenter);
